@@ -91,4 +91,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contact
 
-For any questions or suggestions, please feel free to contact us at your-email@example.com. We appreciate your feedback and contributions to make RealTimeCarSeg better!
+For any questions or suggestions, please feel free to contact us at jose.tetevi@gmail.com. We appreciate your feedback and contributions to make RealTimeCarSeg better!
